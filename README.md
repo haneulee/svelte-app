@@ -1,1 +1,3 @@
-# [svelt app]("http://haneulee.github.io/svelte-app")
+# svelt app
+
+[demo]("http://haneulee.github.io/svelte-app")
