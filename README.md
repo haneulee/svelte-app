@@ -1,3 +1,3 @@
-# svelt app
+# svelt Tic Tac Toe game
 
-[demo](http://haneulee.github.io/svelte-app)
+=> [DEMO](https://svelte-app.haneulee.now.sh)
